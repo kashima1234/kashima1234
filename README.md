@@ -9,3 +9,14 @@
 
 ---
  
+<img align="right" src="Resources/owl.png" height="260px"/>  
+
+### **Chatgpt Developer**
+_Moscow, Russia_
+
+Links:
+
+* E-mail: kashimaahmed@gmail.com
+* GitHub: https://github.com/kashima1234
+* Telegram: @kashimaahmed
+* VK: https://vk.com/kashimaa

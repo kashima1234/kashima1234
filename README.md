@@ -11,7 +11,7 @@
  
 <img align="right" src="Resources/DALL·E 2024-10-16 06.23.49 - A unique animated-style GIF image showing a dynamic anime scene with characters flying through a futuristic cityscape at night. The characters have co.webp" height="260px"/>  
 
-### **Chatgpt Developer**
+# Chatgpt Developer
 _Moscow, Russia_
 
 Links:

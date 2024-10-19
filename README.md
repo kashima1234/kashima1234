@@ -20,3 +20,17 @@ Links:
 * GitHub: https://github.com/kashima1234
 * Telegram: @kashimaahmed
 * VK: https://vk.com/kashimaa
+<div id="header" align="center">
+  <img src="/Akashi-emperor.gif" alt="akashi" width="506px">
+  <div id="badges">
+    <a href="ht ">
+       <img src="https://img.shields.io/badge/vk.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
+    </a>
+    <a href="htt /">
+       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta"/>
+    </a>
+    <a href="h ">
+       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <img src="https:// /ghpvc/?username= &style=flat-square&color=blue" alt="" width="160px"/>
+  </div>

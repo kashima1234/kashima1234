@@ -34,10 +34,6 @@ Links:
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=gramizor&style=flat-square&color=blue" alt="" width="160px"/>
-  </div>
+       ![](https://www.codewars.com/users/Kahima/badges/large)
 
-   
-  
-    ![](https://www.codewars.com/users/Kahima/badges/large)
-   
-</div>
+  </div>

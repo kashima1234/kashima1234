@@ -36,12 +36,8 @@ Links:
     <img src="https://komarev.com/ghpvc/?username=gramizor&style=flat-square&color=blue" alt="" width="160px"/>
   </div>
 
- </div>
-<h2>:fire: My stats: </h2>
+   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gramizor&theme=dark&background=000000)](https://git.io/streak-stats) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gramizor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  ![](https://www.codewars.com/users/KASHIMA/badges/large)
-  
-  </div>
+    ![](https://www.codewars.com/users/Kahima/badges/large)
+   
 </div>

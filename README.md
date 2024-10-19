@@ -30,7 +30,7 @@ Links:
     <a href="https://www.instagram.com/kashimaahmed/">
        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta"/>
     </a>
-    <a href="https://t.me/@kashimaahmed">
+    <a href="https://web.telegram.org/k/">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=gramizor&style=flat-square&color=blue" alt="" width="160px"/>

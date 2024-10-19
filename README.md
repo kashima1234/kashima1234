@@ -18,7 +18,7 @@ Links:
 
 * E-mail: kashimaahmed@gmail.com
 * GitHub: https://github.com/kashima1234
-* Telegram: @kashimaahmed
+* Telegram: https://t.me/@kashimaahmed
 * VK: https://vk.com/kashimaa
 
   <div id="header" align="center">
@@ -30,7 +30,7 @@ Links:
     <a href="https://www.instagram.com/kashimaahmed/">
        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta"/>
     </a>
-    <a href="https://web.telegram.org/k/">
+    <a href="https://t.me/@kashimaahmed">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=gramizor&style=flat-square&color=blue" alt="" width="160px"/>

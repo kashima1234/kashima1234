@@ -27,7 +27,7 @@ Links:
     <a href="https://vk.com/kashimaa">
        <img src="https://img.shields.io/badge/vk.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
     </a>
-    <a href="https://www.instagram.com/kashimaahmed/">
+    <a href="https://www.instagram.com/ahmed.kashima.3o2/">
        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta"/>
     </a>
     <a href="https://t.me/kashimaahmed">

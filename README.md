@@ -35,3 +35,9 @@ Links:
     </a>
     <img src="https://komarev.com/ghpvc/?username=gramizor&style=flat-square&color=blue" alt="" width="160px"/>
   </div>
+
+
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)
+

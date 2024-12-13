@@ -37,7 +37,3 @@ Links:
   </div>
 
 
-
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)
-
